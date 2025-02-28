@@ -1,0 +1,9 @@
+com\elgris\usersapi\api\UsersController.class
+com\elgris\usersapi\configuration\HttpSecurityConfiguration$ApiConfigurerAdatper.class
+com\elgris\usersapi\models\User.class
+com\elgris\usersapi\repository\UserRepository.class
+com\elgris\usersapi\models\UserRole.class
+com\elgris\usersapi\security\AccessUserFilter.class
+com\elgris\usersapi\configuration\HttpSecurityConfiguration.class
+com\elgris\usersapi\UsersApiApplication.class
+com\elgris\usersapi\security\JwtAuthenticationFilter.class
